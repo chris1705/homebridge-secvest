@@ -2,7 +2,7 @@
 ABUS Secvest plugin for homebridge
 
 ## Installation
-1. Install plugin with `npm install -g chris1705/homebridge-secvest
+1. Install plugin with `npm install -g chris1705/homebridge-secvest`
 2. Add platform within `config.json`of you homebridge instance:
 
     ```
