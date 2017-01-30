@@ -1,5 +1,5 @@
 # homebridge-secvest
-ABUS Secvest plugin for homebridge. It supports the Secvest FUAA50000 only. Other models are not supported.
+ABUS Secvest plugin for homebridge. It supports the [Secvest FUAA50000](http://amzn.to/2kKdcvU) only. Other models are not supported.
 
 ## Installation
 1. Install plugin with `npm install -g chris1705/homebridge-secvest`
